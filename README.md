@@ -3,3 +3,4 @@
 
 
 i) PostgreSQL database will be used along with its PostgreSQL client libraries.
+ii) Applications will be ArcGIS Server, ArcGIS Pro, ArcGIS Desktop, and ArcReader.
